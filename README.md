@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AaryadevChandra&&show_icons=true&&theme=radical" />
 <img align="center" src="https://AaryadevChandra.vercel.app/api/top-langs/?username=AaryadevChandra" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://AaryadevChandra.vercel.app/api/top-langs/?username=AaryadevChandra)](https://github.com/AaryadevChandra/AaryadevChandra)
